@@ -2,21 +2,21 @@
 
 **Designed By Flexbox,Grid,...**
 
-👩‍💻😎 [Watch Demo](https://fatememohamadian.github.io/Directory-Project/)
+👩‍💻😎 [Watch Demo](https://fatememohamadian.github.io/VideoGraph-Project/)
 
 
-![1](https://github.com/fatemeMohamadian/Directory-Project/assets/155579918/0906d9a5-1f1f-4b67-8adc-feaff96a75f9)
+
+![1](https://github.com/fatemeMohamadian/VideoGraph-Project/assets/155579918/dcf4193e-6053-45c2-9208-6b9ae68eca76)
 
                                                           😎😉
                                                           
-![3](https://github.com/fatemeMohamadian/Directory-Project/assets/155579918/649dd1f8-c92a-46ec-933e-cf376deebd78)
+![2](https://github.com/fatemeMohamadian/VideoGraph-Project/assets/155579918/7172d818-91d5-4c37-ac72-526cc0539f0d)
 
- 
-                  
+          
 
  😉Developed by <a href="https://linkedin.com/in/fateme-mohamadian-dev0824" target="blank">Fatemeh Mohamadian</a>
 
- 📅2024-01-27
+ 📅2024-02-11
 
  👩‍💻Used **Html , css, Scss** 
 
