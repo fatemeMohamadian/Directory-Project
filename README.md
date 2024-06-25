@@ -5,13 +5,14 @@
 👩‍💻😎 [Watch Demo](https://fatememohamadian.github.io/Directory-Project/)
 
 
-![3](https://github.com/fatemeMohamadian/Directory-Project/assets/155579918/649dd1f8-c92a-46ec-933e-cf376deebd78)
-
-                                                          😎😉 
-                                                          
 ![1](https://github.com/fatemeMohamadian/Directory-Project/assets/155579918/0906d9a5-1f1f-4b67-8adc-feaff96a75f9)
 
-                                                 
+                                                          😎😉
+                                                          
+![3](https://github.com/fatemeMohamadian/Directory-Project/assets/155579918/649dd1f8-c92a-46ec-933e-cf376deebd78)
+
+ 
+                  
 
  😉Developed by <a href="https://linkedin.com/in/fateme-mohamadian-dev0824" target="blank">Fatemeh Mohamadian</a>
 
